@@ -3596,8 +3596,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"openWebsite",
@@ -3610,8 +3610,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"openWebsite",
@@ -3624,8 +3624,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"openWebsite",
@@ -3638,8 +3638,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"openWebsite",
@@ -3652,8 +3652,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"openWebsite",
@@ -3666,8 +3666,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"openWebsite",
@@ -3694,8 +3694,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3703,8 +3703,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3712,8 +3712,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3721,8 +3721,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3730,8 +3730,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3739,8 +3739,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3748,8 +3748,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3757,8 +3757,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3766,8 +3766,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3775,8 +3775,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3784,8 +3784,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3793,8 +3793,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3802,8 +3802,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3811,8 +3811,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3820,8 +3820,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -3829,8 +3829,8 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"string",
-                         "value":"true"
+                         "type":"bool",
+                         "value":true
                         }]
                 }],
          "tilewidth":32
