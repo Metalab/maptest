@@ -2006,7 +2006,13 @@
                          "duration":250,
                          "tileid":95
                         }],
-                 "id":85
+                 "id":85,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "id":86,
