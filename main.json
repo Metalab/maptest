@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map.json#start_lounge"
+                 "value":"map.json#start_lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
