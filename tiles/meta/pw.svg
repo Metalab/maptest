@@ -1,37 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 595.3 141.7" style="enable-background:new 0 0 595.3 141.7;" xml:space="preserve">
-<style type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\ripper\Documents\GitHub\maptest\tiles\meta\pw.png"
+   height="32"
+   width="128"
+   sodipodi:docname="pw.svg"
+   xml:space="preserve"
+   viewBox="0 0 128 32.000001"
+   y="0px"
+   x="0px"
+   id="Ebene_1"
+   version="1.1"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>PrivacyWeek</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" /><sodipodi:namedview
+   inkscape:current-layer="Ebene_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-7"
+   inkscape:window-x="-7"
+   inkscape:cy="28.034116"
+   inkscape:cx="63.640966"
+   inkscape:zoom="5.0695982"
+   showgrid="false"
+   id="namedview19"
+   inkscape:window-height="1010"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style2"
+   type="text/css">
 	.st0{clip-path:url(#SVGID_2_);}
 	.st1{fill:#1C234C;}
 </style>
-<title>PrivacyWeek</title>
-<g>
-	<defs>
-		<rect id="SVGID_1_" y="0" width="595.3" height="141.7"/>
+<title
+   id="title4">PrivacyWeek</title>
+<rect
+   y="8.2521133"
+   x="0.25211334"
+   height="15.495774"
+   width="127.49577"
+   id="rect848"
+   style="fill:#ffffff;stroke:#ffffff;stroke-width:0.504226;stroke-linecap:square" /><g
+   transform="matrix(0.22526751,0,0,0.22526751,-1.9921171,0.05106029)"
+   id="g16">
+	<defs
+   id="defs7">
+		<rect
+   x="0"
+   height="141.7"
+   width="595.29999"
+   y="0"
+   id="SVGID_1_" />
 	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   height="100%"
+   width="100%"
+   y="0"
+   x="0"
+   id="use9"
+   style="overflow:visible"
+   xlink:href="#SVGID_1_" />
 	</clipPath>
-	<g class="st0">
-		<path class="st1" d="M536.4,70.8v-0.1l22.2-22h-11.3l-21.5,22l22,22.5h11.5L536.4,70.8z M525.4,48.6h-8v44.5h8V48.6L525.4,48.6z
-			 M508.6,85.8h-28.2l0.8-0.8v-9.8l-0.8-0.8h25.6v-7.3h-25.6l0.8-0.8v-9.8l-0.8-0.8h28.2v-7.2h-35.4v44.5h35.4L508.6,85.8
-			L508.6,85.8z M464.4,85.8h-28.2l0.8-0.8v-9.8l-0.8-0.8h25.6v-7.3h-25.6l0.8-0.8v-9.8l-0.8-0.8h28.2v-7.2H429v44.5h35.4L464.4,85.8
-			L464.4,85.8z M414.3,48.6l-7.9,28.8l-0.8,4.4h-0.1l-0.8-4.4l-8.1-28.8h-6l-8,28.8l-0.8,4.6h-0.1l-0.8-4.6l-7.9-28.8h-8.5
-			l12.6,44.4h8.7l6.7-24.2l0.9-4.8h0.1l0.8,4.8l6.7,24.2h9l12.6-44.5L414.3,48.6L414.3,48.6z M352.6,48.6l-10.6,14.8l-2.6,4.5h-0.1
-			l-2.7-4.6l-10.6-14.8h-10l19.3,26v18.5h8V74.6l19.3-26L352.6,48.6L352.6,48.6z M307.7,80.6c-3.2,4-6.8,5.8-12.3,5.8
-			c-10.8,0-15-6.5-15-15.3c0-9,4.5-15.8,15.1-15.8c5.5,0,9.1,1.8,12.2,5.7l5.7-5.8c-4.7-4.9-10.4-7.2-18-7.2
-			c-14.9,0-23.2,9.7-23.2,23.1s7.9,22.5,23.1,22.5c7.5,0,13.3-2.4,18.1-7.4L307.7,80.6z M249.3,48.6h-7.4l-20.8,44.5h8.7l4.6-9.9
-			l-0.4-0.7h23.1l-0.4,0.7l4.6,9.9h8.7L249.3,48.6z M237.8,75.3l0.8-0.7l5.8-12.5l1.3-3.7h0.1l1.1,3.7l5.8,12.5l0.8,0.7H237.8z
-			 M216.2,48.6l-13.1,30.5l-1.3,4.4h-0.1l-1.3-4.4l-13.1-30.5h-8.8l19.6,44.5h7.4L225,48.6H216.2L216.2,48.6z M172.5,48.6h-8v44.5h8
-			V48.6z M151.5,78.2c-1-2-2.6-3.7-4.7-4.7v-0.1c4.1-1.9,7.9-6,7.9-11c0-9.3-7.7-13.7-16.3-13.7h-20.9v44.4h8V76.6l-0.8-0.8h9.4
-			c5.4,0,8.2,1.8,10.1,5.6l5.9,11.8h8.9L151.5,78.2z M146.5,62.3c0,3.5-2.9,6.3-8.8,6.3h-13.1l0.8-0.8V56.6l-0.8-0.8h13.7
-			C143.4,55.9,146.5,57.7,146.5,62.3 M110.1,62.8c0-8.3-5.9-14.2-16-14.2H72.3v44.5h8V77.8l-0.8-0.8H94
-			C104.3,77.1,110.1,70.8,110.1,62.8 M102,62.8c0,4.1-2.4,7-8,7H79.5l0.8-0.8V56.6l-0.8-0.8H94C99.6,55.9,101.9,58.6,102,62.8
-			 M65.8,59.6H60l0.5-0.7l2.7-10.3H57l-2.7,10.3l0.2,0.7h-11l0.6-0.7l2.6-10.3h-6.3L37.8,59l0.3,0.7h-7.3v6h5.8L36,66.4l-2.4,9
-			l0.3,0.7h-7.3v6h5.8l-0.7,0.7l-2.6,10.3h6.3L38,82.8l-0.3-0.7h11.1l-0.7,0.7l-2.6,10.3h6.3l2.6-10.3l-0.2-0.7h7.4v-6h-5.8l0.6-0.8
-			l2.3-8.9l-0.3-0.7h7.4L65.8,59.6L65.8,59.6z M52.4,66.4l-2.3,8.9l0.2,0.8h-11l0.5-0.7l2.3-9l-0.3-0.7h11.2L52.4,66.4z"/>
+	<g
+   id="g14"
+   clip-path="url(#SVGID_2_)"
+   class="st0">
+		<path
+   id="path12"
+   d="m 536.4,70.8 v -0.1 l 22.2,-22 h -11.3 l -21.5,22 22,22.5 h 11.5 z m -11,-22.2 h -8 v 44.5 h 8 z m -16.8,37.2 h -28.2 l 0.8,-0.8 v -9.8 l -0.8,-0.8 H 506 v -7.3 h -25.6 l 0.8,-0.8 v -9.8 l -0.8,-0.8 h 28.2 V 48.5 H 473.2 V 93 h 35.4 z m -44.2,0 H 436.2 L 437,85 v -9.8 l -0.8,-0.8 h 25.6 v -7.3 h -25.6 l 0.8,-0.8 v -9.8 l -0.8,-0.8 h 28.2 V 48.5 H 429 V 93 h 35.4 z m -50.1,-37.2 -7.9,28.8 -0.8,4.4 h -0.1 l -0.8,-4.4 -8.1,-28.8 h -6 l -8,28.8 -0.8,4.6 h -0.1 L 380.9,77.4 373,48.6 h -8.5 L 377.1,93 h 8.7 l 6.7,-24.2 0.9,-4.8 h 0.1 l 0.8,4.8 6.7,24.2 h 9 l 12.6,-44.5 z m -61.7,0 -10.6,14.8 -2.6,4.5 h -0.1 L 336.6,63.3 326,48.5 h -10 l 19.3,26 V 93 h 8 V 74.6 l 19.3,-26 z m -44.9,32 c -3.2,4 -6.8,5.8 -12.3,5.8 -10.8,0 -15,-6.5 -15,-15.3 0,-9 4.5,-15.8 15.1,-15.8 5.5,0 9.1,1.8 12.2,5.7 l 5.7,-5.8 C 308.7,50.3 303,48 295.4,48 c -14.9,0 -23.2,9.7 -23.2,23.1 0,13.4 7.9,22.5 23.1,22.5 7.5,0 13.3,-2.4 18.1,-7.4 z m -58.4,-32 h -7.4 l -20.8,44.5 h 8.7 l 4.6,-9.9 -0.4,-0.7 h 23.1 l -0.4,0.7 4.6,9.9 h 8.7 z m -11.5,26.7 0.8,-0.7 5.8,-12.5 1.3,-3.7 h 0.1 l 1.1,3.7 5.8,12.5 0.8,0.7 z m -21.6,-26.7 -13.1,30.5 -1.3,4.4 h -0.1 l -1.3,-4.4 -13.1,-30.5 h -8.8 l 19.6,44.5 h 7.4 L 225,48.6 Z m -43.7,0 h -8 v 44.5 h 8 z m -21,29.6 c -1,-2 -2.6,-3.7 -4.7,-4.7 v -0.1 c 4.1,-1.9 7.9,-6 7.9,-11 0,-9.3 -7.7,-13.7 -16.3,-13.7 h -20.9 v 44.4 h 8 V 76.6 l -0.8,-0.8 h 9.4 c 5.4,0 8.2,1.8 10.1,5.6 l 5.9,11.8 h 8.9 z m -5,-15.9 c 0,3.5 -2.9,6.3 -8.8,6.3 h -13.1 l 0.8,-0.8 V 56.6 l -0.8,-0.8 h 13.7 c 5.1,0.1 8.2,1.9 8.2,6.5 m -36.4,0.5 c 0,-8.3 -5.9,-14.2 -16,-14.2 H 72.3 v 44.5 h 8 V 77.8 L 79.5,77 H 94 c 10.3,0.1 16.1,-6.2 16.1,-14.2 m -8.1,0 c 0,4.1 -2.4,7 -8,7 H 79.5 L 80.3,69 V 56.6 L 79.5,55.8 H 94 c 5.6,0.1 7.9,2.8 8,7 M 65.8,59.6 H 60 l 0.5,-0.7 2.7,-10.3 H 57 l -2.7,10.3 0.2,0.7 h -11 l 0.6,-0.7 2.6,-10.3 h -6.3 l -2.6,10.4 0.3,0.7 h -7.3 v 6 h 5.8 l -0.6,0.7 -2.4,9 0.3,0.7 h -7.3 v 6 h 5.8 l -0.7,0.7 -2.6,10.3 h 6.3 L 38,82.8 37.7,82.1 h 11.1 l -0.7,0.7 -2.6,10.3 h 6.3 l 2.6,-10.3 -0.2,-0.7 h 7.4 v -6 h -5.8 l 0.6,-0.8 2.3,-8.9 -0.3,-0.7 h 7.4 z m -13.4,6.8 -2.3,8.9 0.2,0.8 h -11 l 0.5,-0.7 2.3,-9 -0.3,-0.7 H 53 Z"
+   class="st1" />
 	</g>
 </g>
 </svg>
