@@ -163,7 +163,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<privacyweek>\/main.json}"
+                 "value":"{<privacyweek>\/main.json#start_from_metalab} "
                 }],
          "type":"tilelayer",
          "visible":true,
