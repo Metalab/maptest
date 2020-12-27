@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_metalab}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_metalab}"
                 }],
          "type":"tilelayer",
          "visible":true,
