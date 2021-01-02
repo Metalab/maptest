@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<devlol>\/main.json#start_links}"
+                 "value":"https:\/\/devlol-systems.pages.devlol.org/vspace-workadv/bahnsteig.json#start_rj_westbound_24_1"
                 }],
          "type":"tilelayer",
          "visible":true,
