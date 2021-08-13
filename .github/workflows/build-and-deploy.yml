@@ -23,7 +23,7 @@ jobs:
           -e 's/{<metalab>\(.*\)}/\/_\/global\/metalab.github.io\/maptest\1/g' \
           -e 's/{<realraum>\(.*\)}/\/_\/global\/realraum.github.io\/workadventur3space\1/g' \
           -e 's/{<steyr-werke>\(.*\)}/\/_\/global\/steyr-werke.gitlab.io\/workadventure-stw\1/g' \
-          -e 's/{<2d-thueringen>\(.*\)}/\/_\/global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\1/g' \
+          -e 's/{<2d-thueringen>\(.*\)}/\/_\/global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\1/g' \
           -e 's/{<jitsiUrl>}/meet.jit.si/g' \
           -e 's/{<apiUrl>}/https:\/\/play.aaaaaaaaaaaadventu.re/g' *.json hbf/*.json
 
