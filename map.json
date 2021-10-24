@@ -323,7 +323,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"keller.json"
                 }],
@@ -341,7 +341,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"main.json"
                 }],
@@ -359,7 +359,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl_disabled",
+                 "name":"exitUrl_disabled",
                  "type":"string",
                  "value":"dach.json"
                 }],
@@ -377,7 +377,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl_disabled",
+                 "name":"exitUrl_disabled",
                  "type":"string",
                  "value":"{<tox>\/main.json}"
                 }],
@@ -395,7 +395,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl_disabled",
+                 "name":"exitUrl_disabled",
                  "type":"string",
                  "value":"{<privacyweek>\/main.json#start_from_metalab} "
                 }],
