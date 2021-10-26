@@ -469,6 +469,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-bib"
+                }, 
+                {
+                 "name":"openWebsite-no-pw21",
+                 "type":"string",
                  "value":"https:\/\/bibliothek.metalab.ac.at\/ebu_KEindex.html"
                 }],
          "type":"tilelayer",
@@ -486,6 +491,11 @@
          "properties":[
                 {
                  "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-main\/"
+                }, 
+                {
+                 "name":"openWebsite-no-pw21",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/"
                 }],
@@ -505,6 +515,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-raeume"
+                }, 
+                {
+                 "name":"openWebsite-no-pw21",
+                 "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Raeume"
                 }],
          "type":"tilelayer",
@@ -522,6 +537,11 @@
          "properties":[
                 {
                  "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-phone_booth"
+                }, 
+                {
+                 "name":"openWebsite-no_pw21",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Phone_booth"
                 }],
@@ -541,6 +561,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-fridge"
+                }, 
+                {
+                 "name":"openWebsite-no_pw21",
+                 "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/images\/8\/8a\/New_fridge.jpg"
                 }],
          "type":"tilelayer",
@@ -559,6 +584,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-hm"
+                }, 
+                {
+                 "name":"openWebsite-no_pw21",
+                 "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Werkstatt"
                 }],
          "type":"tilelayer",
@@ -576,6 +606,11 @@
          "properties":[
                 {
                  "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-geigerzaehler"
+                }, 
+                {
+                 "name":"openWebsite-no_pw21",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Geigerzaehler"
                 }],
@@ -750,7 +785,7 @@
          "value":"{<apiUrl>}"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -7309,6 +7344,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":50
 }
