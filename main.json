@@ -30,6 +30,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-main\/"
+                }, 
+                {
+                 "name":"openWebsite-no_pw21",
+                 "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Hackathon_0x1%E2%86%8A"
                 }],
          "type":"tilelayer",
@@ -239,6 +244,11 @@
          "properties":[
                 {
                  "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/metalab-dome"
+                }, 
+                {
+                 "name":"openWebsite-no_pw21",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Dome_2.0"
                 }],
