@@ -307,7 +307,7 @@
                 {
                  "name":"exitUrl_disabled",
                  "type":"string",
-                 "value":"{<lounge>\/wa-toilet-party\/maps\/restroom-party.json#start-metalab}"
+                 "value":"world:\/\/lounge\/wa-toilet-party\/maps\/restroom-party.json#start-metalab"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,7 +379,7 @@
                 {
                  "name":"exitUrl_disabled",
                  "type":"string",
-                 "value":"{<tox>\/main.json}"
+                 "value":"world:\/\/tox\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -397,7 +397,7 @@
                 {
                  "name":"exitUrl_disabled",
                  "type":"string",
-                 "value":"{<privacyweek>\/main.json#start_from_metalab} "
+                 "value":"world:\/\/privacyweek\/main.json#start_from_metalab"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -778,12 +778,6 @@
  "nextlayerid":59,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"apiUrl",
-         "type":"string",
-         "value":"{<apiUrl>}"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

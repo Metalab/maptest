@@ -16,16 +16,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         
+      - name: Install jq and curl
+        run: |
+          sudo apt-get update
+          sudo apt-get install jq curl
+        
       - name: Aaaaaaaaaaaadventure Slug Replacement Script
         run: |
-          sed -i \
-          -e 's/{<devlol>\(.*\)}/\/_\/global\/devlol-systems.pages.devlol.org\/vspace-workadv\1/g' \
-          -e 's/{<metalab>\(.*\)}/\/_\/global\/metalab.github.io\/maptest\1/g' \
-          -e 's/{<realraum>\(.*\)}/\/_\/global\/realraum.github.io\/workadventur3space\1/g' \
-          -e 's/{<steyr-werke>\(.*\)}/\/_\/global\/steyr-werke.gitlab.io\/workadventure-stw\1/g' \
-          -e 's/{<2d-thueringen>\(.*\)}/\/_\/global\/raw.githubusercontent.com\/jstsmthrgk\/2D-Welt-thueringen\/main\1/g' \
-          -e 's/{<jitsiUrl>}/meet.jit.si/g' \
-          -e 's/{<apiUrl>}/https:\/\/play.aaaaaaaaaaaadventu.re/g' *.json hbf/*.json
+          curl https://aaaaaaaaaaaadventu.re/replace_slugs2.sh -o replace_slugs2.sh
+          chmod +x replace_slugs2.sh
+          ./replace_slugs2.sh *.json hbf/*.json
 
       - name: Optimize map
         uses: thecodingmachine/map-optimizer-action@master
