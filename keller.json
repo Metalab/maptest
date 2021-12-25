@@ -2115,6 +2115,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"bad-animation",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Metalab"
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
