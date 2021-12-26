@@ -3886,11 +3886,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/bibliothek.metalab.ac.at\/"
                         }]
                 }, 
                 {
@@ -3900,11 +3895,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/bibliothek.metalab.ac.at\/"
                         }]
                 }, 
                 {
@@ -3914,11 +3904,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/bibliothek.metalab.ac.at\/"
                         }]
                 }, 
                 {
@@ -3928,11 +3913,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/bibliothek.metalab.ac.at\/"
                         }]
                 }, 
                 {
@@ -3942,11 +3922,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/bibliothek.metalab.ac.at\/"
                         }]
                 }, 
                 {
@@ -3956,11 +3931,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/bibliothek.metalab.ac.at\/"
                         }]
                 }],
          "tilewidth":32
