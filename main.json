@@ -138,7 +138,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#start_lounge"
+                 "value":"world:\/\/lobby\/isla-nublar.json#start_Metalab"
                 }],
          "type":"tilelayer",
          "visible":true,
