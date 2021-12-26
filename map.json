@@ -21,12 +21,6 @@
          "id":45,
          "name":"lounge_stream",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"stream:rc3lounge"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -402,18 +396,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":50,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":15,
-         "image":"metalab-Grundriss-Usage.png",
-         "name":"Image Layer 1",
-         "offsetx":9.24066059376253,
-         "offsety":10.039945000288,
-         "opacity":1,
-         "type":"imagelayer",
-         "visible":false,
          "x":0,
          "y":0
         }, 
