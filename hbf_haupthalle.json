@@ -311,7 +311,7 @@
         {
          "columns":4,
          "firstgid":1,
-         "image":"plan.png",
+         "image":"hbf\/plan.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -349,7 +349,7 @@
         {
          "columns":14,
          "firstgid":17,
-         "image":"treppen_neu.png",
+         "image":"hbf\/treppen_neu.png",
          "imageheight":352,
          "imagewidth":448,
          "margin":0,
@@ -368,7 +368,7 @@
         {
          "columns":9,
          "firstgid":171,
-         "image":"rollteppen_neu.png",
+         "image":"hbf\/rollteppen_neu.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
@@ -387,7 +387,7 @@
         {
          "columns":9,
          "firstgid":243,
-         "image":"rollteppen_neu_overlay.png",
+         "image":"hbf\/rollteppen_neu_overlay.png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
@@ -406,7 +406,7 @@
         {
          "columns":8,
          "firstgid":315,
-         "image":"bahnhof_neu.png",
+         "image":"hbf\/bahnhof_neu.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -425,7 +425,7 @@
         {
          "columns":8,
          "firstgid":379,
-         "image":"wegweiser.png",
+         "image":"hbf\/wegweiser.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
