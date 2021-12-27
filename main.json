@@ -170,6 +170,12 @@
          "id":31,
          "name":"exit_hbf",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"hbf_haupthalle.json#start_metalab"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
