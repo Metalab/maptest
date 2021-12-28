@@ -457,6 +457,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/bibliothek.metalab.ac.at\/ebu_KEindex.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -475,6 +485,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/images\/e\/e1\/Tisch.png"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -493,6 +513,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -511,6 +541,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Raeume"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -529,6 +569,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Phone_booth"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -547,6 +597,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/images\/8\/8a\/New_fridge.jpg"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -565,6 +625,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Werkstatt"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -583,6 +653,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/metalab.at\/wiki\/Geigerzaehler"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Website zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
