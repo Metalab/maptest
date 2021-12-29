@@ -810,6 +810,57 @@
                  "width":154.666666666667,
                  "x":1002.33333333333,
                  "y":908.666666666667
+                }, 
+                {
+                 "height":46.6666666666667,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"7fRfZDgvxwlazKKfH2uWdVIFyJ8RDg2kCgOnvwJAGjCDgL5grn"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":129.333333333333,
+                 "x":1246.66666666667,
+                 "y":733.333333333333
+                }, 
+                {
+                 "height":90.6666666666667,
+                 "id":4,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"CJLIiDIkOUUjw0bxOwm38pOA9O5ia0LLRV7PCwb0PxFdHlaekP"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":776.666666666667,
+                 "y":291.333333333333
+                }, 
+                {
+                 "height":156,
+                 "id":5,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"N3CkNzAx1qVB5vunRnznTrBWGdl4IGY39AW8VwwKHOHnhB77jK"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":243.333333333333,
+                 "x":489.333333333333,
+                 "y":68.6666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -866,10 +917,10 @@
          "y":0
         }],
  "nextlayerid":64,
- "nextobjectid":3,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -7160,6 +7211,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":50
 }
