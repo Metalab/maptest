@@ -4,7 +4,7 @@ sed -i \
 -e 's/"world:\\\/\\\/Metalab\\\/\(.*\)"/"\\\/_\\\/global\\\/metalab.github.io\\\/maptest\\\/\1"/g' \
 -e 's/"world:\\\/\\\/realraum\\\/\(.*\)"/"\\\/_\\\/global\\\/realraum.github.io\\\/workadventur3space\\\/\1"/g' \
 -e 's/"world:\\\/\\\/steyr-werke\\\/\(.*\)"/"\\\/_\\\/global\\\/steyr-werke.gitlab.io\\\/workadventure-stw\\\/\1"/g' \
--e 's/"world:\\\/\\\/chaos-zone\\\/\(.*\)"/"\\\/_\\\/global\\\/raw.githubusercontent.com\\\/die3ungleichen\\\/2D-Welt-thueringen\\\/main\\\/\1"/g' \
+-e 's/"world:\\\/\\\/chaoszone\\\/\(.*\)"/"\\\/_\\\/global\\\/raw.githubusercontent.com\\\/die3ungleichen\\\/2D-Welt-thueringen\\\/main\\\/\1"/g' \
 $@
 for f in $@
 do
