@@ -20,12 +20,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install jq curl
-        
+
       - name: Aaaaaaaaaaaadventure Slug Replacement Script
         run: |
-          curl https://aaaaaaaaaaaadventu.re/replace_slugs2.sh -o replace_slugs2.sh
-          chmod +x replace_slugs2.sh
-          ./replace_slugs2.sh *.json hbf/*.json
+          curl https://aaaaaaaaaaaadventu.re/replace_slugs.jq -o replace_slugs.jq
+          for f in *.json hbf/*.json; do tmp=$(mktemp); jq -f replace_slugs.jq "$f" > "$tmp"; mv "$tmp" "$f"; done
 
       - name: Optimize map
         uses: thecodingmachine/map-optimizer-action@master
