@@ -18,5 +18,3 @@
      ("/_/global/steyr-werke.gitlab.io/workadventure-stw/" + (. | ltrimstr("world://steyr-werke/")))
 | (.layers[] | recurse(.layers[]?) | .properties[]? | select(.name=="exitUrl" and (.value | startswith("world://chaoszone/"))) | .value) |=
      ("/_/global/raw.githubusercontent.com/die3ungleichen/2D-Welt-thueringen/main/" + (. | ltrimstr("world://chaoszone/")))
-| (.layers[] | recurse(.layers[]?) | .properties[]? | select(.name=="exitUrl" and (.value | startswith("world://devlol/"))) | .value) |=
-     ("/_/global/devlol-systems.pages.devlol.org/vspace-workadv/" + (. | ltrimstr("world://devlol/")))
